@@ -180,7 +180,7 @@ Now, let's take a look at how the pipeline works:
 
 * Video with lane lines detetion:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cJR8mmjCMuE" frameborder="0" allowfullscreen></iframe>
+[![Final Video](https://img.youtube.com/vi/cJR8mmjCMuE/0.jpg)](https://www.youtube.com/watch?v=cJR8mmjCMuE)
 
 
 ### 2. Potential shortcomings with current pipeline
