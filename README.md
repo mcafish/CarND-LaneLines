@@ -178,15 +178,9 @@ Now, let's take a look at how the pipeline works:
 * Final image after **separate**,**average**, **extrapolate**, and **merge** function:
 ![alt text][image7]
 
-* Original Video:
-<video width="378" height="223" controls>
-    <source src="./examples/solidWhiteRight.mp4" type="video/mp4">
-</video>
-
 * Video with lane lines detetion:
-<video width="378" height="223" controls>
-    <source src="./examples/white.mp4" type="video/mp4">
-</video>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cJR8mmjCMuE" frameborder="0" allowfullscreen></iframe>
 
 
 ### 2. Potential shortcomings with current pipeline
