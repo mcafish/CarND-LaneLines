@@ -1,8 +1,8 @@
-#**Finding Lane Lines on the Road** 
+# **Finding Lane Lines on the Road** 
 
 ---
 
-**Finding Lane Lines on the Road**
+** Finding Lane Lines on the Road**
 
 The goals / steps of this project are the following:
 
@@ -24,7 +24,7 @@ The goals / steps of this project are the following:
 
 ### Reflection
 
-###1. Pipeline
+### 1. Pipeline
 
 My pipeline consisted of the following steps:
 
@@ -189,7 +189,7 @@ Now, let's take a look at how the pipeline works:
 </video>
 
 
-###2. Potential shortcomings with current pipeline
+### 2. Potential shortcomings with current pipeline
 
 
 Current pipeline would work well when the image has good contrast to generate canny edges, thus one potential shortcoming would be that it can not detect the edges well when the constrast is poor, such as shadow of tree, or over the bridge.
@@ -197,7 +197,7 @@ Current pipeline would work well when the image has good contrast to generate ca
 Another shortcoming is current pipeline could not detect the curved line.
 
 
-###3. Suggest possible improvements to current pipeline
+### 3. Suggest possible improvements to current pipeline
 
 A possible improvement would be to find other ways to convert the image to get better constrast before applying canny edges, such as, converting RGB to HSV first (I have not tried this, and will try later)
 
