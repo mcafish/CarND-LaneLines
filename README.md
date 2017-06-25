@@ -183,6 +183,7 @@ Now, let's take a look at how the pipeline works:
 [![Final Video](https://img.youtube.com/vi/cJR8mmjCMuE/0.jpg)](https://www.youtube.com/watch?v=cJR8mmjCMuE)
 
 
+
 ### 2. Potential shortcomings with current pipeline
 
 
